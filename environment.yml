@@ -1,0 +1,13 @@
+name: consonant_cooccurrence
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-viridis
+  - r-extrafont
+  - r-ape
+  - r-corrplot
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
