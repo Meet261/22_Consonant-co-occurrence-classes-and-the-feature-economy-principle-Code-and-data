@@ -7,6 +7,7 @@ dependencies:
   - r-viridis
   - r-extrafont
   - r-ape
+  - r-cairo
   - r-corrplot
   - r-tidyverse
   - r-knitr
